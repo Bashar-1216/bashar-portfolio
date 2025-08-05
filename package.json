@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Bashar-1216.github.io/your-repo-name",
+"homepage": "https://bashar-1216.github.io/bashar-portfolio"
 
   "scripts": {
   "dev": "vite",
