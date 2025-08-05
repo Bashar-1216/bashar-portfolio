@@ -16,10 +16,10 @@ A personal portfolio website showcasing a collection of AI and Machine Learning 
  📦 Getting Started Locally
 
 1. Clone the repository:  
-   
+   ```bash
    git clone https://github.com/bashar-1216/bashar-portfolio.git
    cd bashar-portfolio
-
+````
 
 2. Install dependencies:
 
@@ -46,7 +46,7 @@ pnpm run deploy
 
 ---
 
-🤝 Contributing
+ 🤝 Contributing
 
 Contributions are welcome!
 
