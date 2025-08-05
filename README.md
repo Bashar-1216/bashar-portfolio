@@ -1,11 +1,11 @@
 
 
 ````markdown
-# 🎭 Bashar Almuntaser - AI & Machine Learning Portfolio
+ 🎭 Bashar Almuntaser - AI & Machine Learning Portfolio
 
 A personal portfolio website showcasing a collection of AI and Machine Learning projects, with a modern design and great user experience.
 
-## 🚀 Features
+ 🚀 Features
 
 - 🖥️ Modern, responsive design optimized for all devices  
 - 📂 Detailed project showcase with tech descriptions  
@@ -13,13 +13,13 @@ A personal portfolio website showcasing a collection of AI and Machine Learning 
 - 📬 Easy-to-use contact form  
 - 🎨 Built with modern tools like React, Vite, and Tailwind CSS  
 
-## 📦 Getting Started Locally
+ 📦 Getting Started Locally
 
 1. Clone the repository:  
-   ```bash
+   
    git clone https://github.com/bashar-1216/bashar-portfolio.git
    cd bashar-portfolio
-````
+
 
 2. Install dependencies:
 
@@ -35,7 +35,7 @@ A personal portfolio website showcasing a collection of AI and Machine Learning 
    # or npm run dev
    ```
 
-## 🚀 Deployment
+ 🚀 Deployment
 
 To deploy the site on GitHub Pages:
 
@@ -46,18 +46,18 @@ pnpm run deploy
 
 ---
 
-## 🤝 Contributing
+🤝 Contributing
 
 Contributions are welcome!
 
 * Open an issue or pull request
 * Make your changes and share updates
 
-## 📄 License
+ 📄 License
 
 Licensed under the MIT License.
 
-## 🙋‍♂️ Contact
+ 🙋‍♂️ Contact
 
 Email: [almuntaserbashar@gmail.com](mailto:almuntaserbashar@gmail.com)
 Project Link: [https://github.com/bashar-1216/bashar-portfolio](https://github.com/bashar-1216/bashar-portfolio)
